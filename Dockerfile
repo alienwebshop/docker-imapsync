@@ -9,6 +9,7 @@ RUN apt-get update \
   libcgi-pm-perl \
   libcrypt-openssl-rsa-perl \
   libdata-uniqid-perl \
+  libregexp-common-perl \
   libfile-copy-recursive-perl \
   libio-socket-ssl-perl \
   libio-socket-inet6-perl \
